@@ -1,0 +1,442 @@
+{
+  "data": [
+    {
+      "circulating_supply": 5695,
+      "cmc_rank": 8604,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 9463,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 8913,
+      "name": "m7dmeucwwl",
+      "num_market_pairs": 88,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.09579912444436678,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.42322842219272405,
+          "market_cap_dominance": 2261,
+          "percent_change_1h": 0.6921595626997243,
+          "percent_change_24h": 0.7659075223788274,
+          "percent_change_7d": 0.9855530901965197,
+          "price": 0.4822342733121714,
+          "volume_24h": 102,
+          "volume_change_24h": 0.5510799833405755
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "ekie9df7pc6",
+      "symbol": "6asiczqku4m",
+      "tags": [
+        "u1jbiulkdbe",
+        "1cfn8pm4wth",
+        "u9poh24dfhq",
+        "a4y365njlai",
+        "8htw62cr20k",
+        "vmwrw69rxl",
+        "iaukxl5pkbg",
+        "m04u3136tw",
+        "rjee4ovcwz",
+        "xv9m6a321iq"
+      ],
+      "total_supply": 2357
+    },
+    {
+      "circulating_supply": 8761,
+      "cmc_rank": 2016,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 2511,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 6303,
+      "name": "pnlf6kiv4ml",
+      "num_market_pairs": 5763,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.06087423990187513,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.5047733517593911,
+          "market_cap_dominance": 6441,
+          "percent_change_1h": 0.390397033040514,
+          "percent_change_24h": 0.8088793246495298,
+          "percent_change_7d": 0.5349608827689027,
+          "price": 0.9008765601879483,
+          "volume_24h": 9428,
+          "volume_change_24h": 0.2421945527896585
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "94208ebampo",
+      "symbol": "fw09tp8n5yr",
+      "tags": [
+        "rq3laico60i",
+        "ucebxgw75yj",
+        "4xgp8qyn2xx",
+        "74dqpr770jg",
+        "gbgw774l9s8",
+        "1helbnda21x",
+        "it2ah9bvj1n",
+        "vfiyg42a54j",
+        "20pnr2x2apj",
+        "q15hcdqjk8q"
+      ],
+      "total_supply": 8156
+    },
+    {
+      "circulating_supply": 673,
+      "cmc_rank": 3210,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 4603,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 9608,
+      "name": "3ram4l22f43",
+      "num_market_pairs": 9480,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.02787365253877616,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.19843397806884844,
+          "market_cap_dominance": 661,
+          "percent_change_1h": 0.06742651239339592,
+          "percent_change_24h": 0.5018162304919986,
+          "percent_change_7d": 0.4127144778944196,
+          "price": 0.8583433946957226,
+          "volume_24h": 6951,
+          "volume_change_24h": 0.20504181002749222
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "vh4z1foosk7",
+      "symbol": "qajrd42k5x",
+      "tags": [
+        "1s0m2mzpoyr",
+        "z0bpgcxwydt",
+        "8p6kqu4p5d7",
+        "0g9hiztg9jw",
+        "qc7a49nygqe",
+        "k69kn9xd36",
+        "ft556oofuur",
+        "twghiu8zfze",
+        "mysaqqfve9",
+        "8iq97p6ig25"
+      ],
+      "total_supply": 5174
+    },
+    {
+      "circulating_supply": 7790,
+      "cmc_rank": 8699,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 75,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 8686,
+      "name": "hq89mjrj0mb",
+      "num_market_pairs": 9980,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.4461278148353687,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.2336387944004794,
+          "market_cap_dominance": 732,
+          "percent_change_1h": 0.20192761739090326,
+          "percent_change_24h": 0.08750184254065618,
+          "percent_change_7d": 0.23801832496680997,
+          "price": 0.6644557035632992,
+          "volume_24h": 1174,
+          "volume_change_24h": 0.5539855033955747
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "u5vklhosq9b",
+      "symbol": "3r6thm5nphd",
+      "tags": [
+        "8a26hacvg5t",
+        "mu3z5o6xh1s",
+        "fwanq26ig9",
+        "13a3zfdroyhm",
+        "915cpzqv4hl",
+        "743hfonfuwm",
+        "mhpvkofwjx",
+        "xi8zgmdwuxj",
+        "qzfs51sf1cd",
+        "hejf2ad5m38"
+      ],
+      "total_supply": 1213
+    },
+    {
+      "circulating_supply": 6828,
+      "cmc_rank": 624,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 8445,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 1599,
+      "name": "8akzvrq4aip",
+      "num_market_pairs": 7325,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.24845964441188118,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.9389879066511964,
+          "market_cap_dominance": 2518,
+          "percent_change_1h": 0.06521624328909503,
+          "percent_change_24h": 0.7849224156018186,
+          "percent_change_7d": 0.31111771981462377,
+          "price": 0.21341040587732163,
+          "volume_24h": 2365,
+          "volume_change_24h": 0.6727131186567257
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "8we500euwhc",
+      "symbol": "cedkfedhe16",
+      "tags": [
+        "pamls4c1ef",
+        "6xphc66xiff",
+        "lncb09k10b",
+        "fmhd5hmfwxi",
+        "ifxb64xy8nm",
+        "kru61a7gpl",
+        "qquursi5a9",
+        "gmu97p1lj5a",
+        "qgnp0nvehum",
+        "pnacw51o1k8"
+      ],
+      "total_supply": 9093
+    },
+    {
+      "circulating_supply": 9980,
+      "cmc_rank": 8616,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 3182,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 1531,
+      "name": "gb4fscjthn6",
+      "num_market_pairs": 8343,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.3348938210181125,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.7669774375837053,
+          "market_cap_dominance": 4280,
+          "percent_change_1h": 0.6765285756807617,
+          "percent_change_24h": 0.09901917218396972,
+          "percent_change_7d": 0.7992102470906897,
+          "price": 0.03935101101217198,
+          "volume_24h": 5181,
+          "volume_change_24h": 0.5378800664322825
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "l5y12y5l8g",
+      "symbol": "h8zt703xnm7",
+      "tags": [
+        "myf9k2gzzoa",
+        "1ewjio7ujvi",
+        "zeq0d2bzhj",
+        "rmemldoyodp",
+        "914a4var2zk",
+        "51pa4oybcip",
+        "ddb870dyk19",
+        "mg77y3qnsr",
+        "0v8u871w5ggc",
+        "7yd1iclzp6e"
+      ],
+      "total_supply": 2343
+    },
+    {
+      "circulating_supply": 6134,
+      "cmc_rank": 9471,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 2621,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 6185,
+      "name": "p5mx78myn3s",
+      "num_market_pairs": 6821,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.1451546951649605,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.3022499886317036,
+          "market_cap_dominance": 7422,
+          "percent_change_1h": 0.9889974195937161,
+          "percent_change_24h": 0.30019972043290055,
+          "percent_change_7d": 0.6778572930476943,
+          "price": 0.656954835287864,
+          "volume_24h": 1266,
+          "volume_change_24h": 0.46564888930392057
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "1uc929o3bq8",
+      "symbol": "sj927j2mwt",
+      "tags": [
+        "oa0jq6x9ly",
+        "h1jpwdmj4el",
+        "gqmdlgm1lcf",
+        "e0x3jgldrgj",
+        "bnwnufiea2o",
+        "395c9or9k6o",
+        "3fd06z36yqa",
+        "pznz16p7r2s",
+        "79y7extyb4f",
+        "1xy7jxf6fij"
+      ],
+      "total_supply": 9570
+    },
+    {
+      "circulating_supply": 2405,
+      "cmc_rank": 5061,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 590,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 5687,
+      "name": "8mx4zvkqov",
+      "num_market_pairs": 2171,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.8012155182070806,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.6455421738021239,
+          "market_cap_dominance": 5606,
+          "percent_change_1h": 0.15280664829454405,
+          "percent_change_24h": 0.27665455304394704,
+          "percent_change_7d": 0.8662913721236023,
+          "price": 0.27200762392658095,
+          "volume_24h": 7992,
+          "volume_change_24h": 0.9726955245676849
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "ozqys6nii3",
+      "symbol": "gcyf5cqkk1",
+      "tags": [
+        "vpximouvm7",
+        "p6q4jerq3v",
+        "fxskcwalj5o",
+        "7jp6jlq450a",
+        "f2vs6n8ieha",
+        "dsanwbc30kn",
+        "ug6ootqrnyl",
+        "neogla4p7yh",
+        "0nkky8j0r5yh",
+        "30z71ehsa3w"
+      ],
+      "total_supply": 3739
+    },
+    {
+      "circulating_supply": 3914,
+      "cmc_rank": 3311,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 8476,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 2264,
+      "name": "51w0efjc0lj",
+      "num_market_pairs": 9864,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.2962047074982963,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.7225467068663718,
+          "market_cap_dominance": 8710,
+          "percent_change_1h": 0.9202439938570393,
+          "percent_change_24h": 0.0026487466453763986,
+          "percent_change_7d": 0.6786570877384845,
+          "price": 0.39405144501307277,
+          "volume_24h": 4230,
+          "volume_change_24h": 0.6528837306242978
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "yk7205k9au",
+      "symbol": "ghplcsha6y",
+      "tags": [
+        "q6cjivl6ka9",
+        "6f1j22pslcy",
+        "ukfnsr5kl",
+        "rawndw15yx",
+        "4u03sfeqbeh",
+        "lsnw9ebvl6d",
+        "vc04bbmktdd",
+        "8gyb936fj87",
+        "z61xugzg34j",
+        "ilzksjhxiw"
+      ],
+      "total_supply": 8374
+    },
+    {
+      "circulating_supply": 2235,
+      "cmc_rank": 2166,
+      "date_added": "2025-07-23T10:28:12.013Z",
+      "id": 2753,
+      "infinite_supply": null,
+      "last_updated": "2025-07-23T10:28:12.013Z",
+      "max_supply": 1425,
+      "name": "ro1820dbdka",
+      "num_market_pairs": 8556,
+      "platform": null,
+      "quote": {
+        "USD": {
+          "fully_diluted_market_cap": 0.20154252668085015,
+          "last_updated": "2025-07-23T10:28:12.013Z",
+          "market_cap": 0.5148686437940315,
+          "market_cap_dominance": 9383,
+          "percent_change_1h": 0.8271358460282054,
+          "percent_change_24h": 0.5835090856629834,
+          "percent_change_7d": 0.1865928662507106,
+          "price": 0.5607767312734764,
+          "volume_24h": 569,
+          "volume_change_24h": 0.7390814107876131
+        }
+      },
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "slug": "se26w34iwf",
+      "symbol": "liowes0g4ll",
+      "tags": [
+        "amzz9f7st4m",
+        "v5ygjalsmi",
+        "7dilu91ls6p",
+        "aydx0ifskc9",
+        "79vj8zc6ty2",
+        "ezurjc6bphw",
+        "hff0jgq3fa",
+        "3n9xant7c8u",
+        "oyc83ddy2q",
+        "da87153uuz"
+      ],
+      "total_supply": 4590
+    }
+  ],
+  "status": {
+    "credit_count": 1,
+    "elapsed": 1,
+    "error_code": 0,
+    "error_message": null,
+    "notice": null,
+    "timestamp": "2025-07-23T10:28:12.013Z"
+  }
+}

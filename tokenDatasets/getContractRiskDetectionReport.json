@@ -1,0 +1,356 @@
+[
+  {
+    "status": 1,
+    "msg": "SUCCESS",
+    "data_type": 1,
+    "data": {
+      "analysis_big_wallet": "0",
+      "analysis_creator_gt_5percent": 0,
+      "analysis_risk_score": 55,
+      "analysis_scam_wallet": "0",
+      "approve_gas": "",
+      "burn_amount": 0,
+      "buy_gas": "",
+      "chain": "solana",
+      "creator_address": "EYRLgcw9F4JyYExhNhv71vqM4zzLbSS9RR1LaoJfKC1K",
+      "decimal": "6",
+      "dex": [
+        {
+          "amm": "pumpfunamm",
+          "liquidity": "179074.20113257639243965277302176",
+          "name": "Pumpfunamm: TRUMP/SOL",
+          "pair": "3FDxC8RkDmo6RUKLirgNdasAJwGTwBdM5ZNxd32p64r7"
+        }
+      ],
+      "err_code": "",
+      "err_msg": "",
+      "has_black_method": 0,
+      "has_code": 1,
+      "has_mint_method": 0,
+      "has_not_burned_lp": 1,
+      "holders": 223,
+      "is_fake_token": 1,
+      "lock_amount": 0,
+      "owner": "0x0000000000000000000000000000000000000000",
+      "pair_holders": 0,
+      "pair_total": 0,
+      "query_count": 2,
+      "risk_info": "{\"zh-cn\": \"\\u5047\\u5916\\u76d8\\u5e01\", \"zh-tw\": \"\\u5047\\u5916\\u76d8\\u5e01\", \"en\": \"Fake pump token\"}",
+      "risk_level": -1,
+      "risk_score": 100,
+      "sell_gas": "",
+      "token": "EuHU14AnMooEFMR8TSu9Em681RKAU5sdjUNzYa2ycZcR",
+      "token_holders_rank": [
+        {
+          "address": "3FDxC8RkDmo6RUKLirgNdasAJwGTwBdM5ZNxd32p64r7",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.64273379652511",
+          "quantity": "642733796.52511"
+        },
+        {
+          "address": "7VtfL8fvgNfhz17qKRMjzQEXgbdpnHHHQRh54R9jP2RJ",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.028943166163356",
+          "quantity": "28943166.163356"
+        },
+        {
+          "address": "Gr4Qh553ps3T2N9tKKgpu7t5EX2THLPsn6N3k5pQMBeV",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.016292425534157",
+          "quantity": "16292425.534157"
+        },
+        {
+          "address": "pF6Yqot6goQyfaHcFw6ujQi2cKHra8dJu3xdHLDGadX",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.014799286082695",
+          "quantity": "14799286.082695"
+        },
+        {
+          "address": "5EpbFnDo1dMKn1pj8CsUxJf25vZRKKKR2NXzyX2xzMp",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.012359115134326",
+          "quantity": "12359115.134326"
+        },
+        {
+          "address": "EkCpSoAEbcC4ufMaW7ZAhAqMnWmKkmJjuQN6ppSyw6sz",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.011870368351824",
+          "quantity": "11870368.351824"
+        },
+        {
+          "address": "DRW8x23SvLVJmN1HrmS2oEJm4UwzN6ueZsEboazxjfL5",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.011842892418643",
+          "quantity": "11842892.418643"
+        },
+        {
+          "address": "FE8XFS1BMRst3jB3TLf5V4DUxTrFMf7XYEqyb4MMgUGK",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.011632299495398",
+          "quantity": "11632299.495398"
+        },
+        {
+          "address": "EDJugiqSX9d9kjHVy7dkTo3YmuiJM9fnrCpbKeDfPiFp",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.01081898611203",
+          "quantity": "10818986.11203"
+        },
+        {
+          "address": "DnoJafCBVSVqDb8EWDHSS9EakEfpFh1b7xF4odMfc4jK",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.010759559527045",
+          "quantity": "10759559.527045"
+        }
+      ],
+      "token_lock_percent": 0,
+      "token_name": "TRUMP",
+      "token_symbol": "TRUMP",
+      "total": "1000000000"
+    }
+  },
+  {
+    "status": 1,
+    "msg": "SUCCESS",
+    "data_type": 1,
+    "data": {
+      "analysis_big_wallet": "0",
+      "analysis_creator_gt_5percent": 0,
+      "analysis_risk_score": 55,
+      "analysis_scam_wallet": "0",
+      "anti_whale_modifiable": "0",
+      "approve_gas": "",
+      "burn_amount": 0,
+      "buy_gas": "",
+      "chain": "solana",
+      "creator_address": "CP8tjnwEmmHuQL5GHdxCTR4TGhkk9Aw8waTbNe3ipdRQ",
+      "decimal": "6",
+      "dex": [
+        {
+          "amm": "pumpfunamm",
+          "liquidity": "113991.61767000884442515731855695",
+          "name": "Pumpfunamm: TRUMP/SOL",
+          "pair": "3SfVqoax46vMstCyvTsU6B8cePwP3gaqLvqXcqFC5Reh"
+        }
+      ],
+      "err_code": "",
+      "err_msg": "",
+      "has_black_method": 0,
+      "has_code": 1,
+      "has_mint_method": 0,
+      "has_not_burned_lp": 1,
+      "has_owner_removed_risk": 1,
+      "holders": 107,
+      "is_anti_whale": "0",
+      "is_fake_token": 1,
+      "is_listed": 1,
+      "lock_amount": 0,
+      "owner": "0x0000000000000000000000000000000000000000",
+      "pair_holders": 0,
+      "pair_total": 0,
+      "query_count": 0,
+      "risk_info": "{\"zh-cn\": \"\\u5047\\u5916\\u76d8\\u5e01\", \"zh-tw\": \"\\u5047\\u5916\\u76d8\\u5e01\", \"en\": \"Fake pump token\"}",
+      "risk_level": -1,
+      "risk_score": 100,
+      "sell_gas": "",
+      "token": "E7VbSnkZsP4iyjzinX6MyF2uS1qCEr7pbZf4jsga7tgs",
+      "token_holders_rank": [
+        {
+          "address": "3SfVqoax46vMstCyvTsU6B8cePwP3gaqLvqXcqFC5Reh",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.712995440249741",
+          "quantity": "712995440.249741"
+        },
+        {
+          "address": "DTzabk9gma6H3wUuZhMQJfJUfZ7TUEaeWhbbE1XtxKUx",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.038024980744053",
+          "quantity": "38024980.744053"
+        },
+        {
+          "address": "F77HiSiPofkdCoc66CbsNbZpRjv2wkXnumwG9DMFfHgT",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.021218493286318",
+          "quantity": "21218493.286318"
+        },
+        {
+          "address": "B253JAUCoF8ttUqaMRiMzLJV3FuZZvPhD8shL2iAKx6E",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.020432499512512",
+          "quantity": "20432499.512512"
+        },
+        {
+          "address": "4jjkdFZYX8q2QuWwLd1fi6NYDJCZJiHCU9jHGGEs8Eic",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.015558611770615",
+          "quantity": "15558611.770615"
+        },
+        {
+          "address": "B3nx4TaiLvTbibwWya3PAoaw3sS47HAznaDik8cLBvxk",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.013471356478984",
+          "quantity": "13471356.478984"
+        },
+        {
+          "address": "DqdNoT9jpWd1GR91SzXSUw1JwSNLcD7zPTktkap4XENs",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.012970389936922",
+          "quantity": "12970389.936922"
+        },
+        {
+          "address": "EW5s6GQVwQK9sqBw8sqYeDMc9yifJhYV1xSmMm2yiYJA",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.012294047299468",
+          "quantity": "12294047.299468"
+        },
+        {
+          "address": "6BRNSvdn42cQirNm7bC2X2RiRPpbtJiHDVspPc6tkv9E",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.01186189650656",
+          "quantity": "11861896.50656"
+        },
+        {
+          "address": "ANXVaS9tznRV55J7ufkZ4iQtKk1vt6yGa4z9orpBu323",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0.011834093565709",
+          "quantity": "11834093.565709"
+        }
+      ],
+      "token_lock_percent": 0,
+      "token_name": "THE HUNTER",
+      "token_symbol": "TRUMP",
+      "total": "1000000000"
+    }
+  },
+  {
+    "status": 1,
+    "msg": "SUCCESS",
+    "data_type": 1,
+    "data": {
+      "analysis_big_wallet": "0",
+      "analysis_creator_gt_5percent": 0,
+      "analysis_risk_score": 55,
+      "analysis_scam_wallet": "0",
+      "anti_whale_modifiable": "0",
+      "approve_gas": "",
+      "burn_amount": 0,
+      "buy_gas": "",
+      "chain": "solana",
+      "creator_address": "6J9ecSVwdwWgeutui5b4v7oswLaYkbqzfpdvNpeqrndJ",
+      "decimal": "6",
+      "err_code": "",
+      "err_msg": "",
+      "has_black_method": 0,
+      "has_code": 1,
+      "has_mint_method": 0,
+      "has_not_burned_lp": 0,
+      "has_owner_removed_risk": 1,
+      "holders": 0,
+      "is_anti_whale": "0",
+      "is_listed": 1,
+      "lock_amount": 0,
+      "owner": "0x0000000000000000000000000000000000000000",
+      "pair_holders": 0,
+      "pair_total": 0,
+      "query_count": 0,
+      "risk_score": 55,
+      "sell_gas": "",
+      "token": "2rw8eKzP3KCZXoAv6EqBykRR8SGRTCoeuBHNWP5HPUMP",
+      "token_holders_rank": [
+        {
+          "address": "6J9ecSVwdwWgeutui5b4v7oswLaYkbqzfpdvNpeqrndJ",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "1000000000"
+        },
+        {
+          "address": "Dii6tPjsfKPVjj5yvGMyDZGfnL6WpThHaHPfnBGA9HeT",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "FRdwVA6JzApz4UjaQ1rBq4G1bszqgHiHgpHH83d1aXzP",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "DxSWNbWp1LzGFFXttRYPJuk1uo1e9rUnuaeqncw4mrLD",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "B3hRWBSxNyabtFAfG9mXjA9PPahmE6RRH3mVMMFMGdZH",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "4NnmMeaL4AdchmtZr4T4bquQgiYzDJ7Lgj6BLQ3VKDZC",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "5AwdetZ5ynveJB71u6ZYVoAdgrEvVtZhfpZETvksFEhJ",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "U9rv1NVmhpmbJWKpd6RxQLasNLduqckdT3SUHrC43Sf",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "EbmqVq2qX33DPGWsw1Fy7T5WMDGvnsqLqbQ1EfmMVekn",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        },
+        {
+          "address": "QGPnPVSDbuvVuL3Ls2FKA9KyWb2sz2wcnMoik7FLnk7",
+          "is_contract": null,
+          "mark": null,
+          "percent": "0",
+          "quantity": "0"
+        }
+      ],
+      "token_lock_percent": 0,
+      "token_name": "TRUMP",
+      "token_symbol": "TRUMP",
+      "total": "0"
+    }
+  }
+]

@@ -1,0 +1,1647 @@
+{
+  "status": 1,
+  "msg": "SUCCESS",
+  "data_type": 1,
+  "data": [
+    {
+      "chain_id": "56",
+      "name": "BSC",
+      "chain": "bsc",
+      "description": "Binance Smart Chain",
+      "rpc_url": "https://api.dryespah.com/ave_nodes/rpc/bsc/sendFastSwapTx",
+      "block_explorer_url": "https://bscscan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "solana",
+      "name": "Solana",
+      "chain": "solana",
+      "description": "Solana",
+      "rpc_url": "https://api.dryespah.com/ave_nodes/rpc/solana/sendFastSwapTx",
+      "block_explorer_url": "https://solscan.io",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "8453",
+      "name": "Base",
+      "chain": "base",
+      "description": "Coinbase Base",
+      "rpc_url": "https://api.xwjtyrs.com/ave_nodes/rpc/base/sendFastSwapTx",
+      "block_explorer_url": "https://basescan.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1",
+      "name": "Ethereum",
+      "chain": "eth",
+      "description": "Ethereum Mainnet",
+      "rpc_url": "https://eth.llamarpc.com",
+      "block_explorer_url": "https://etherscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "ton",
+      "name": "TON",
+      "chain": "ton",
+      "description": "",
+      "rpc_url": "https://toncenter.com/api/v2/",
+      "block_explorer_url": "https://tonviewer.com/",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "42161",
+      "name": "Arbitrum",
+      "chain": "arbitrum",
+      "description": "Arbitrum",
+      "rpc_url": "https://arb1.arbitrum.io/rpc",
+      "block_explorer_url": "https://arbiscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "sui",
+      "name": "Sui",
+      "chain": "sui",
+      "description": "Sui",
+      "rpc_url": "https://fullnode.mainnet.sui.io:443",
+      "block_explorer_url": "https://suiscan.xyz/",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1116",
+      "name": "CORE",
+      "chain": "core",
+      "description": "Core",
+      "rpc_url": "https://rpc.coredao.org/",
+      "block_explorer_url": "https://scan.coredao.org",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "196",
+      "name": "X Layer",
+      "chain": "xlayer",
+      "description": "X Layer",
+      "rpc_url": "https://rpc.xlayer.tech",
+      "block_explorer_url": "https://www.okx.com/zh-hans/explorer/xlayer",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "tron",
+      "name": "Tron",
+      "chain": "tron",
+      "description": "Tron",
+      "rpc_url": "https://api.trongrid.io",
+      "block_explorer_url": "https://tronscan.io/#",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "4200",
+      "name": "Merlin",
+      "chain": "merlin",
+      "description": "Merlin",
+      "rpc_url": "https://rpc.merlinchain.io/",
+      "block_explorer_url": "https://scan.merlinchain.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "201022",
+      "name": "FSC",
+      "chain": "fsc",
+      "description": "fsc",
+      "rpc_url": "https://fsc-dataseed1.fonscan.io",
+      "block_explorer_url": "https://fonscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "43114",
+      "name": "Avalanche",
+      "chain": "avalanche",
+      "description": "Avalanche",
+      "rpc_url": "https://api.avax.network/ext/bc/C/rpc",
+      "block_explorer_url": "https://snowtrace.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "brc20",
+      "name": "Bitcoin",
+      "chain": "brc20",
+      "description": "Bitcoin",
+      "rpc_url": "",
+      "block_explorer_url": "https://mempool.space",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "204",
+      "name": "opBNB",
+      "chain": "opbnb",
+      "description": "",
+      "rpc_url": "https://opbnb-mainnet-rpc.bnbchain.org",
+      "block_explorer_url": "https://mainnet.opbnbscan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "369",
+      "name": "PulseChain",
+      "chain": "pulsechain",
+      "description": "PulseChain",
+      "rpc_url": "https://rpc.pulsechain.com",
+      "block_explorer_url": "https://scan.pulsechain.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "10",
+      "name": "Optimism",
+      "chain": "optimism",
+      "description": "optimism",
+      "rpc_url": "https://mainnet.optimism.io/",
+      "block_explorer_url": "https://optimistic.etherscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "324",
+      "name": "zkSync Era",
+      "chain": "zksync",
+      "description": "zksync",
+      "rpc_url": "https://mainnet.era.zksync.io",
+      "block_explorer_url": "https://explorer.zksync.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "2032",
+      "name": "CVN",
+      "chain": "cvn",
+      "description": "cvn",
+      "rpc_url": "https://node.consciousdao.com/",
+      "block_explorer_url": "https://explore.consciousdao.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "11552",
+      "name": "OMP",
+      "chain": "omp",
+      "description": "OneMorPay",
+      "rpc_url": "http://ompchain.com:8545/",
+      "block_explorer_url": "https://www.onemorepay.top/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "8989",
+      "name": "Telegramx",
+      "chain": "telegramx",
+      "description": "telegramx",
+      "rpc_url": "https://els.muqiangu.com",
+      "block_explorer_url": "https://www.txpocket.link/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "137",
+      "name": "Polygon",
+      "chain": "polygon",
+      "description": "Polygon(Matic)",
+      "rpc_url": "https://polygon-rpc.com",
+      "block_explorer_url": "https://polygonscan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "128",
+      "name": "Heco",
+      "chain": "heco",
+      "description": "Huobi ECO Chain",
+      "rpc_url": "https://http-mainnet.hecochain.com",
+      "block_explorer_url": "https://hecoinfo.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "66",
+      "name": "OKC",
+      "chain": "oec",
+      "description": "OKXChain",
+      "rpc_url": "https://exchainrpc.okex.org",
+      "block_explorer_url": "https://www.oklink.com/okexchain",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "10001",
+      "name": "EthereumPoW",
+      "chain": "ethw",
+      "description": "ethw",
+      "rpc_url": "https://mainnet.ethereumpow.org",
+      "block_explorer_url": "https://www.oklink.com/cn/ethw",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1030",
+      "name": "Conflux",
+      "chain": "conflux",
+      "description": "conflux",
+      "rpc_url": "https://main.confluxrpc.com",
+      "block_explorer_url": "https://evm.confluxscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "250",
+      "name": "Fantom",
+      "chain": "ftm",
+      "description": "Fantom",
+      "rpc_url": "https://rpcapi.fantom.network/",
+      "block_explorer_url": "https://ftmscan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "513100",
+      "name": "DIS CHAIN",
+      "chain": "dis",
+      "description": "",
+      "rpc_url": "https://rpc.dischain.xyz/",
+      "block_explorer_url": "https://scan.dischain.xyz",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1284",
+      "name": "Moonbeam",
+      "chain": "moonbeam",
+      "description": "moonbeam",
+      "rpc_url": "https://rpc.api.moonbeam.network",
+      "block_explorer_url": "https://moonbeam.moonscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "osmosis",
+      "name": "Osmosis",
+      "chain": "osmosis",
+      "description": "Osmosis",
+      "rpc_url": "https://osmosis.stakesystems.io",
+      "block_explorer_url": "https://www.mintscan.io/osmosis",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1666600000",
+      "name": "Harmony",
+      "chain": "harmony",
+      "description": "harmony",
+      "rpc_url": "https://api.harmony.one",
+      "block_explorer_url": "https://explorer.harmony.one",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "88188",
+      "name": "SHJ",
+      "chain": "shj",
+      "description": "shj",
+      "rpc_url": "https://rpc.shjscan.com",
+      "block_explorer_url": "https://www.shjscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "321",
+      "name": "KCC",
+      "chain": "kcc",
+      "description": "KCC-MAINNET",
+      "rpc_url": "https://rpc-mainnet.kcc.network",
+      "block_explorer_url": "https://explorer.kcc.io/cn",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "888888",
+      "name": "Vision",
+      "chain": "vision",
+      "description": "vision",
+      "rpc_url": "https://infragrid.v.network/ethereum/compatible",
+      "block_explorer_url": "https://www.visionscan.org",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "99999",
+      "name": "UBC",
+      "chain": "uschain",
+      "description": "UB Smart Chain",
+      "rpc_url": "https://rpc.uschain.network",
+      "block_explorer_url": "https://scan.uschain.network",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "2559",
+      "name": "Kortho",
+      "chain": "kortho",
+      "description": "Kortho Chain",
+      "rpc_url": "https://www.kortho-chain.com",
+      "block_explorer_url": "https://www.kortho.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1280",
+      "name": "Halo",
+      "chain": "halo",
+      "description": "Halo",
+      "rpc_url": "https://nodes.halo.land",
+      "block_explorer_url": "https://browser.halo.land",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "47",
+      "name": "MSC",
+      "chain": "msc",
+      "description": "msc",
+      "rpc_url": "https://rpc.meta-world.game/",
+      "block_explorer_url": "https://scan.meta-world.game",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1818",
+      "name": "CUBE",
+      "chain": "cube",
+      "description": "cube",
+      "rpc_url": "https://http-mainnet.cube.network",
+      "block_explorer_url": "https://cubescan.network",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "2000",
+      "name": "Dogechain",
+      "chain": "dogechain",
+      "description": "dogechain",
+      "rpc_url": "https://rpc01-sg.dogechain.dog",
+      "block_explorer_url": "https://explorer.dogechain.dog",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "61",
+      "name": "ETC",
+      "chain": "etc",
+      "description": "etc",
+      "rpc_url": "https://etc.etcdesktop.com",
+      "block_explorer_url": "https://blockscout.com/etc/mainnet/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "131419",
+      "name": "ETND",
+      "chain": "etnd",
+      "description": "etnd",
+      "rpc_url": "https://rpc.node1.etnd.pro",
+      "block_explorer_url": "http://scan.etnd.pro",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "7999",
+      "name": "GGA",
+      "chain": "gga",
+      "description": "gga",
+      "rpc_url": "https://fullnode.ggachains.com",
+      "block_explorer_url": "https://scan.ggachains.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "12133",
+      "name": "MBK",
+      "chain": "mbk",
+      "description": "mbk",
+      "rpc_url": "https://rpcm.mbkscan.com/",
+      "block_explorer_url": "https://www.mbkscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "47805",
+      "name": "REI",
+      "chain": "rei",
+      "description": "rei",
+      "rpc_url": "https://rpc.rei.network",
+      "block_explorer_url": "https://scan.rei.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1923",
+      "name": "Shib",
+      "chain": "shib",
+      "description": "shib",
+      "rpc_url": "https://rpc.shibchain.app/",
+      "block_explorer_url": "https://explorer.shibchain.app/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "52077",
+      "name": "KNK",
+      "chain": "knk",
+      "description": "knk",
+      "rpc_url": "https://endpoint.knkscan.org",
+      "block_explorer_url": "https://knkscan.org",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "813",
+      "name": "Qitmeer",
+      "chain": "qitmeer",
+      "description": "qitmeer",
+      "rpc_url": "https://rpc.evm.meerscan.io",
+      "block_explorer_url": "https://evm.meerscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "32520",
+      "name": "Bitgert",
+      "chain": "bitgert",
+      "description": "bitgert",
+      "rpc_url": "https://mainnet-rpc.brisescan.com",
+      "block_explorer_url": "https://brisescan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "9158",
+      "name": "tc",
+      "chain": "tc",
+      "description": "tc",
+      "rpc_url": "https://rpc.twitterchain.net",
+      "block_explorer_url": "https://explore.twitterchain.net/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "10888",
+      "name": "dojo",
+      "chain": "dojo",
+      "description": "dojo",
+      "rpc_url": "https://http-mainnet.dojochain.com",
+      "block_explorer_url": "https://explorer.dojochain.co",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1688288",
+      "name": "pgchain",
+      "chain": "pgchain",
+      "description": "pgchain",
+      "rpc_url": "https://rpc.pgchain.org",
+      "block_explorer_url": "https://scan.pgchain.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "11119",
+      "name": "hashbit",
+      "chain": "hashbit",
+      "description": "hashbit",
+      "rpc_url": "https://mainnet-rpc.hashbit.org",
+      "block_explorer_url": "https://explorer.hashbit.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "210425",
+      "name": "platon",
+      "chain": "platon",
+      "description": "platon",
+      "rpc_url": "https://openapi2.platon.network/rpc",
+      "block_explorer_url": "https://scan.platon.network",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "3797",
+      "name": "alveychain",
+      "chain": "alveychain",
+      "description": "alveychain",
+      "rpc_url": "https://rpc.alvey.io/rpc",
+      "block_explorer_url": "https://alveyscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "aptos",
+      "name": "Aptos",
+      "chain": "aptos",
+      "description": "aptos",
+      "rpc_url": "https://fullnode.mainnet.aptoslabs.com",
+      "block_explorer_url": "https://explorer.aptoslabs.com",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "115",
+      "name": "luckychain",
+      "chain": "luckychain",
+      "description": "luckychain",
+      "rpc_url": "http://luckychain.win/rpc/",
+      "block_explorer_url": "https://luckychain.pro/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "3912",
+      "name": "Drac",
+      "chain": "drac",
+      "description": "drac",
+      "rpc_url": "https://www.dracscan.io/rpc",
+      "block_explorer_url": "https://www.dracscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "177",
+      "name": "mbechain",
+      "chain": "mbechain",
+      "description": "mbechain",
+      "rpc_url": "https://mainnet.mbecoin.com",
+      "block_explorer_url": "https://browser.mbechain.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "708",
+      "name": "olinkchain",
+      "chain": "olinkchain",
+      "description": "olinkchain",
+      "rpc_url": "http://52.220.39.39:7005",
+      "block_explorer_url": "https://owblockweb.owopenlinkoracle.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "12306",
+      "name": "fibochain",
+      "chain": "fibochain",
+      "description": "fibochain",
+      "rpc_url": "https://node.fibochain.org",
+      "block_explorer_url": "https://scan.fibochain.org",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "314",
+      "name": "Filecoin",
+      "chain": "filecoin",
+      "description": "filecoin",
+      "rpc_url": "https://api.node.glif.io",
+      "block_explorer_url": "https://filfox.info/en/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "27753",
+      "name": "APchain",
+      "chain": "apchain",
+      "description": "APchain",
+      "rpc_url": "https://ap.aptoken.link",
+      "block_explorer_url": "https://www.aptoken.link/home/index",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "fab",
+      "name": "FAB",
+      "chain": "fab",
+      "description": "FAB",
+      "rpc_url": "http://18.118.79.180:8545",
+      "block_explorer_url": "https://www.exchangily.com/explorer/block-detail/36417842",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "770077",
+      "name": "Grove",
+      "chain": "grove",
+      "description": "Grove",
+      "rpc_url": "https://mainnet.grovechain.io",
+      "block_explorer_url": "http://grvscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "17777",
+      "name": "EOS(evm)",
+      "chain": "eos",
+      "description": "eos",
+      "rpc_url": "https://api.evm.eosnetwork.com",
+      "block_explorer_url": "https://explorer.evm.eosnetwork.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "2222",
+      "name": "kava",
+      "chain": "kava",
+      "description": "Kava",
+      "rpc_url": "https://evm.kava.io",
+      "block_explorer_url": "https://explorer.kava.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "22776",
+      "name": "MAPO",
+      "chain": "mapo",
+      "description": "mapo",
+      "rpc_url": "https://rpc.maplabs.io",
+      "block_explorer_url": "https://maposcan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "20201022",
+      "name": "Pego",
+      "chain": "pego",
+      "description": "Pego",
+      "rpc_url": "https://pegorpc.com",
+      "block_explorer_url": "https://scan.pego.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "7899",
+      "name": "SV",
+      "chain": "sv",
+      "description": "sv",
+      "rpc_url": "https://sv.svchain.link",
+      "block_explorer_url": "https://www.svchain.link/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "79",
+      "name": "MixMax",
+      "chain": "mixmax",
+      "description": "mixmax",
+      "rpc_url": "https://chain.mixmax.cc",
+      "block_explorer_url": "https://explorer.mixmax.cc/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1101",
+      "name": "polygonzkevm",
+      "chain": "polygonzkevm",
+      "description": "Polygon zkEVM",
+      "rpc_url": "https://zkevm-rpc.com",
+      "block_explorer_url": "https://zkevm.polygonscan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "5611",
+      "name": "opbnbtestnet",
+      "chain": "opbnbtestnet",
+      "description": "opBNB testnet",
+      "rpc_url": "https://opbnb-testnet-rpc.bnbchain.org",
+      "block_explorer_url": "https://opbnbscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "411",
+      "name": "PepeChain",
+      "chain": "pepechain",
+      "description": "pepechain",
+      "rpc_url": "https://rpc.pepe-chain.vip/",
+      "block_explorer_url": "https://explorer.pepe-chain.vip/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "59144",
+      "name": "Linea",
+      "chain": "linea",
+      "description": "Linea",
+      "rpc_url": "https://rpc.linea.build",
+      "block_explorer_url": "https://lineascan.build/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "5000",
+      "name": "Mantle",
+      "chain": "mantle",
+      "description": "",
+      "rpc_url": "https://rpc.mantle.xyz",
+      "block_explorer_url": "https://explorer.mantle.xyz/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "28800",
+      "name": "ScfChain",
+      "chain": "scfchain",
+      "description": "scfchain",
+      "rpc_url": "https://rpc.scfchain.io/",
+      "block_explorer_url": "https://mainchain.scfchain.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "109",
+      "name": "Shibarium",
+      "chain": "shibarium",
+      "description": "",
+      "rpc_url": "https://www.shibrpc.com",
+      "block_explorer_url": "https://www.shibariumscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "7171",
+      "name": "Bitrock",
+      "chain": "bitrock",
+      "description": "",
+      "rpc_url": "https://connect.bit-rock.io",
+      "block_explorer_url": "https://scan.bit-rock.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "8957",
+      "name": "Ethereum Express",
+      "chain": "ete",
+      "description": "",
+      "rpc_url": "https://www.etescan.net/rpc",
+      "block_explorer_url": "https://www.etescan.net/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "198",
+      "name": "Bitchain",
+      "chain": "bitchain",
+      "description": "",
+      "rpc_url": "https://rpc.bitchain.biz",
+      "block_explorer_url": "https://explorer.bitchain.biz",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "4000",
+      "name": "ozone",
+      "chain": "ozone",
+      "description": "",
+      "rpc_url": "https://node1.ozonechain.io",
+      "block_explorer_url": "https://ozonescan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "9000",
+      "name": "DEP",
+      "chain": "depass",
+      "description": "",
+      "rpc_url": "https://dechain19.depaas.net",
+      "block_explorer_url": "https://scan.depaas.de/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "10618",
+      "name": "phichain",
+      "chain": "phichain",
+      "description": "phichain",
+      "rpc_url": "https://node-swap.phic.io",
+      "block_explorer_url": "https://phic.io/scan/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "534352",
+      "name": "Scroll",
+      "chain": "scroll",
+      "description": "",
+      "rpc_url": "https://rpc.scroll.io/",
+      "block_explorer_url": "https://scrollscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1088",
+      "name": "Metis",
+      "chain": "metis",
+      "description": "metis",
+      "rpc_url": "https://andromeda.metis.io/?owner=1088",
+      "block_explorer_url": "https://explorer.metis.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "cosmos",
+      "name": "cosmos",
+      "chain": "cosmos",
+      "description": "cosmos",
+      "rpc_url": "https://cosmos-rest.publicnode.com/",
+      "block_explorer_url": "",
+      "case_sensitive": false,
+      "only_native_coin": true
+    },
+    {
+      "chain_id": "42766",
+      "name": "ZKfair",
+      "chain": "zkfair",
+      "description": "",
+      "rpc_url": "https://rpc.zkfair.io",
+      "block_explorer_url": "https://scan.zkfair.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "near",
+      "name": "near",
+      "chain": "near",
+      "description": "near",
+      "rpc_url": "",
+      "block_explorer_url": "https://nearblocks.io/zh-cn",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "86",
+      "name": "gatechain",
+      "chain": "gatechain",
+      "description": "",
+      "rpc_url": "https://evm.gatenode.cc",
+      "block_explorer_url": "https://gatescan.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "169",
+      "name": "Manta",
+      "chain": "manta",
+      "description": "",
+      "rpc_url": "https://pacific-rpc.manta.network/http",
+      "block_explorer_url": "https://pacific-explorer.manta.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "868",
+      "name": "ETHG",
+      "chain": "ethg",
+      "description": "ethg",
+      "rpc_url": "https://rpc.etherumgold.me",
+      "block_explorer_url": "https://www.etherumgold.me/explorer/index.html",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "7000",
+      "name": "zetachain",
+      "chain": "zetachain",
+      "description": "zetachain",
+      "rpc_url": "https://zetachain-mainnet-archive.allthatnode.com:8545",
+      "block_explorer_url": "https://zetachain.blockscout.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "878",
+      "name": "KAD",
+      "chain": "kad",
+      "description": "",
+      "rpc_url": "https://rpchttp.kadsea.org",
+      "block_explorer_url": "https://kadscan.kadsea.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "23448594291968334",
+      "name": "starknet",
+      "chain": "starknet",
+      "description": "starknet",
+      "rpc_url": "https://starknet-mainnet.public.blastapi.io",
+      "block_explorer_url": "https://starkscan.co/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "25",
+      "name": "Cronos",
+      "chain": "cronos",
+      "description": "Cronos Chain",
+      "rpc_url": "https://evm.cronos.org",
+      "block_explorer_url": "https://cronoscan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "81457",
+      "name": "Blast",
+      "chain": "blast",
+      "description": "Blast",
+      "rpc_url": "https://rpc.blast.io",
+      "block_explorer_url": "https://blastscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "999999",
+      "name": "wdc",
+      "chain": "wdc",
+      "description": "",
+      "rpc_url": "https://rpc.worldcoin.group",
+      "block_explorer_url": "https://scan.worldcoin.group/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "463",
+      "name": "Areon",
+      "chain": "areon",
+      "description": "",
+      "rpc_url": "https://mainnet-rpc.areon.network",
+      "block_explorer_url": "https://areonscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "dfs",
+      "name": "dfs",
+      "chain": "dfs",
+      "description": "dfs",
+      "rpc_url": "https://api.dfs.land",
+      "block_explorer_url": "https://www.dfsmoon.com/network",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "11501",
+      "name": "bevm",
+      "chain": "bevm",
+      "description": "",
+      "rpc_url": "https://rpc-mainnet-1.bevm.io",
+      "block_explorer_url": "https://scan-mainnet.bevm.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "34443",
+      "name": "Mode",
+      "chain": "mode",
+      "description": "",
+      "rpc_url": "https://mainnet.mode.network",
+      "block_explorer_url": "https://explorer.mode.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "13371",
+      "name": "Immutable zkEVM(EVM)",
+      "chain": "immutable",
+      "description": "",
+      "rpc_url": "https://rpc.immutable.com",
+      "block_explorer_url": "https://explorer.immutable.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1319",
+      "name": "AIA",
+      "chain": "aia",
+      "description": "",
+      "rpc_url": "https://aia-dataseed1.aiachain.org",
+      "block_explorer_url": "https://aiascan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "100",
+      "name": "Gnosis",
+      "chain": "gnosis",
+      "description": "",
+      "rpc_url": "https://gnosis.blockpi.network/v1/rpc/public",
+      "block_explorer_url": "https://gnosisscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "223",
+      "name": "B2",
+      "chain": "b2network",
+      "description": "",
+      "rpc_url": "https://rpc.bsquared.network/",
+      "block_explorer_url": "https://explorer.bsquared.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "runes",
+      "name": "runes",
+      "chain": "runes",
+      "description": "",
+      "rpc_url": "https://localhost",
+      "block_explorer_url": "https://www.okx.com/zh-hans/explorer/btc/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "200901",
+      "name": "Bitlayer",
+      "chain": "bitlayer",
+      "description": "",
+      "rpc_url": "https://rpc.bitlayer.org",
+      "block_explorer_url": "https://www.btrscan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "sei",
+      "name": "sei",
+      "chain": "sei",
+      "description": "",
+      "rpc_url": "https://sei-api.polkachu.com/",
+      "block_explorer_url": "https://www.seiscan.app/pacific-1/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "592",
+      "name": "Astar",
+      "chain": "astar",
+      "description": "",
+      "rpc_url": "https://evm.astar.network",
+      "block_explorer_url": "https://astar.subscan.io",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "42220",
+      "name": "Celo",
+      "chain": "celo",
+      "description": "",
+      "rpc_url": "https://api.tatum.io/v3/blockchain/node/celo-mainnet",
+      "block_explorer_url": "https://explorer.celo.org/mainnet/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "4689",
+      "name": "iotex",
+      "chain": "iotex",
+      "description": "",
+      "rpc_url": "https://iotexrpc.com",
+      "block_explorer_url": "https://iotexscout.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "9001",
+      "name": "Evmos",
+      "chain": "evmos",
+      "description": "",
+      "rpc_url": "https://evmos.lava.build",
+      "block_explorer_url": "https://escan.live/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "888",
+      "name": "Wanchain",
+      "chain": "wanchain",
+      "description": "",
+      "rpc_url": "https://gwan2-ssl.wandevs.org",
+      "block_explorer_url": "https://www.wanscan.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "245022934",
+      "name": "Neon evm",
+      "chain": "neonevm",
+      "description": "",
+      "rpc_url": "https://neon-proxy-mainnet.solana.p2p.org",
+      "block_explorer_url": "https://neon.blockscout.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1313161554",
+      "name": "Aurora",
+      "chain": "aurora",
+      "description": "",
+      "rpc_url": "https://mainnet.aurora.dev",
+      "block_explorer_url": "https://explorer.aurora.dev/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "810180",
+      "name": "Zklink",
+      "chain": "zklink",
+      "description": "",
+      "rpc_url": "https://rpc.zklink.io",
+      "block_explorer_url": "https://explorer.zklink.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1285",
+      "name": "Moonriver",
+      "chain": "moonriver",
+      "description": "",
+      "rpc_url": "https://moonriver-rpc.publicnode.com",
+      "block_explorer_url": "https://moonriver.moonscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "8217",
+      "name": "klaytn",
+      "chain": "klaytn",
+      "description": "",
+      "rpc_url": "https://klaytn.drpc.org",
+      "block_explorer_url": "https://www.klaytnfinder.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "666666666",
+      "name": "Degen",
+      "chain": "degen",
+      "description": "",
+      "rpc_url": "https://rpc.degen.tips",
+      "block_explorer_url": "https://explorer.degen.tips/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "6001",
+      "name": "BounceBit Mainnet",
+      "chain": "bouncebit",
+      "description": "",
+      "rpc_url": "https://fullnode-mainnet.bouncebitapi.com",
+      "block_explorer_url": "https://bbscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "42170",
+      "name": "Arbitrum Nova",
+      "chain": "arbitrumnova",
+      "description": "",
+      "rpc_url": "https://nova.arbitrum.io/rpc",
+      "block_explorer_url": "https://nova.arbiscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "2020",
+      "name": "Ronin",
+      "chain": "ronin",
+      "description": "",
+      "rpc_url": "https://api.roninchain.com/rpc",
+      "block_explorer_url": "https://app.roninchain.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "820",
+      "name": "Callisto",
+      "chain": "callisto",
+      "description": "",
+      "rpc_url": "https://rpc.callisto.network",
+      "block_explorer_url": "https://explorer.callisto.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "60",
+      "name": "Go Chain",
+      "chain": "gochain",
+      "description": "",
+      "rpc_url": "https://rpc.gochain.io",
+      "block_explorer_url": "https://explorer.gochain.io/home",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "281",
+      "name": "Bitone Network",
+      "chain": "bitonenetwork",
+      "description": "",
+      "rpc_url": "https://rpc.bitonenetwork.io",
+      "block_explorer_url": "https://www.bitonenetwork.io/bto_explorer/index.html",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "multiversx",
+      "name": "Multiversx",
+      "chain": "multiversx",
+      "description": "",
+      "rpc_url": "https://gateway.multiversx.com",
+      "block_explorer_url": "https://explorer.multiversx.com/",
+      "case_sensitive": true,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "8047",
+      "name": "Boat",
+      "chain": "boat",
+      "description": "",
+      "rpc_url": "https://rpc0.come.boats",
+      "block_explorer_url": "https://scan.come.boats",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "766",
+      "name": "Qom",
+      "chain": "qom",
+      "description": "",
+      "rpc_url": "https://rpc.qom.one/",
+      "block_explorer_url": "https://scan.qom.one/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "20028",
+      "name": "MetaChain",
+      "chain": "metachain",
+      "description": "",
+      "rpc_url": "https://seed1.metachain1.com",
+      "block_explorer_url": "https://block.metachain1.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "168168",
+      "name": "ZChains",
+      "chain": "zchains",
+      "description": "",
+      "rpc_url": "https://rpc.zchains.com/",
+      "block_explorer_url": "https://scan.zchains.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1329",
+      "name": "Sei V2",
+      "chain": "seiv2",
+      "description": "",
+      "rpc_url": "https://evm-rpc.sei-apis.com",
+      "block_explorer_url": "https://seitrace.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "7560",
+      "name": "Cyber",
+      "chain": "cyber",
+      "description": "",
+      "rpc_url": "https://cyber.alt.technology/",
+      "block_explorer_url": "https://cyberscan.co/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "33139",
+      "name": "Ape Chain",
+      "chain": "apechain",
+      "description": "",
+      "rpc_url": "https://apechain.calderachain.xyz/http",
+      "block_explorer_url": "https://apescan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "698",
+      "name": "Matchain",
+      "chain": "matchain",
+      "description": "",
+      "rpc_url": "https://rpc.matchain.io",
+      "block_explorer_url": "https://matchscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "918",
+      "name": "SlerfChain",
+      "chain": "slerfchain",
+      "description": "",
+      "rpc_url": "https://rpc.slerfchain.xyz",
+      "block_explorer_url": "https://scan.slerfchain.xyz",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "2818",
+      "name": "Morph Mainnet",
+      "chain": "morph",
+      "description": "",
+      "rpc_url": "https://rpc-quicknode.morphl2.io/",
+      "block_explorer_url": "https://explorer.morphl2.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "1625",
+      "name": "Gravity",
+      "chain": "gravity",
+      "description": "",
+      "rpc_url": "https://rpc.gravity.xyz",
+      "block_explorer_url": "https://explorer.gravity.xyz/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "xrpl",
+      "name": "xrpl",
+      "chain": "xrpl",
+      "description": "",
+      "rpc_url": "",
+      "block_explorer_url": "https://xrpscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "hyperliquid",
+      "name": "hyperliquid",
+      "chain": "hyperliquid",
+      "description": "",
+      "rpc_url": "https://api.hyperliquid.xyz",
+      "block_explorer_url": "https://app.hyperliquid.xyz/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "88275",
+      "name": "MBK",
+      "chain": "mbkv2",
+      "description": "",
+      "rpc_url": "https://rpcm.mbkscan.com/",
+      "block_explorer_url": "https://www.mbkscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "16507",
+      "name": "Genesys",
+      "chain": "genesys",
+      "description": "genesys",
+      "rpc_url": "https://rpc.genesys.network",
+      "block_explorer_url": "https://gchainexplorer.genesys.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "146",
+      "name": "Sonic",
+      "chain": "sonic",
+      "description": "sonic",
+      "rpc_url": "https://rpc.soniclabs.com",
+      "block_explorer_url": "https://sonicscan.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "nervosutxo",
+      "name": "Nervos",
+      "chain": "nervosutxo",
+      "description": "nervosutxo",
+      "rpc_url": "https://mainnet.ckb.dev/",
+      "block_explorer_url": "https://explorer.nervos.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "75978",
+      "name": "Fusion",
+      "chain": "fusion",
+      "description": "",
+      "rpc_url": "https://rpc.fusionchain.club",
+      "block_explorer_url": "https://explorer.fusionscan.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "80094",
+      "name": "berachain",
+      "chain": "berachain",
+      "description": "berachain",
+      "rpc_url": "https://rpc.berachain.com/",
+      "block_explorer_url": "https://berascan.com",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "tbc",
+      "name": "TBC",
+      "chain": "tbc",
+      "description": "",
+      "rpc_url": "",
+      "block_explorer_url": "https://explorer.turingbitchain.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "130",
+      "name": "UNI Chain",
+      "chain": "unichain",
+      "description": "",
+      "rpc_url": "https://mainnet.unichain.org",
+      "block_explorer_url": "https://uniscan.xyz",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "168169",
+      "name": "MUD",
+      "chain": "mud",
+      "description": "mud",
+      "rpc_url": "https://rpc.mud.network",
+      "block_explorer_url": "https://scan.mud.network",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "babylon",
+      "name": "babylon",
+      "chain": "babylon",
+      "description": "",
+      "rpc_url": "https://babylon.nodes.guru/rpc",
+      "block_explorer_url": "https://www.mintscan.io/babylon/block",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "210000",
+      "name": "juchain",
+      "chain": "juchain",
+      "description": "",
+      "rpc_url": "https://rpc.juchain.org",
+      "block_explorer_url": "https://explorer.juscan.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "3721",
+      "name": "xone",
+      "chain": "xone",
+      "description": "",
+      "rpc_url": "https://rpc.xone.org",
+      "block_explorer_url": "https://xonescan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "999",
+      "name": "Hyper Evm",
+      "chain": "hyperevm",
+      "description": "",
+      "rpc_url": "https://rpc.hyperliquid.xyz/evm",
+      "block_explorer_url": "https://www.hyperscan.com/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "704851",
+      "name": "MarsChain",
+      "chain": "marschain",
+      "description": "",
+      "rpc_url": "https://rpc.mars-scan.io",
+      "block_explorer_url": "https://explorer.mars-chain.io/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "96178",
+      "name": "ChronosChain",
+      "chain": "chronoschain",
+      "description": "",
+      "rpc_url": "https://node2.chronoschain.xyz/",
+      "block_explorer_url": "https://explorer.chronoschain.xyz/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "2741",
+      "name": "Abstract",
+      "chain": "abstract",
+      "description": "",
+      "rpc_url": "https://api.mainnet.abs.xyz",
+      "block_explorer_url": "https://abscan.org/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "usstock",
+      "name": "usstock",
+      "chain": "usstock",
+      "description": "",
+      "rpc_url": "",
+      "block_explorer_url": "",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "173",
+      "name": "ENI Mainnet",
+      "chain": "eni",
+      "description": "",
+      "rpc_url": "https://rpc.eniac.network",
+      "block_explorer_url": "https://scan.eniac.network/",
+      "case_sensitive": false,
+      "only_native_coin": false
+    },
+    {
+      "chain_id": "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
+      "name": "bitcoin cash",
+      "chain": "bch",
+      "description": "Bitcoin Cash Mainnet",
+      "rpc_url": "",
+      "block_explorer_url": "https://www.oklink.com/bch",
+      "case_sensitive": false,
+      "only_native_coin": true
+    },
+    {
+      "chain_id": "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
+      "name": "bitcoin",
+      "chain": "btc",
+      "description": "Bitcoin Mainnet",
+      "rpc_url": "",
+      "block_explorer_url": "https://www.oklink.com/btc",
+      "case_sensitive": true,
+      "only_native_coin": true
+    },
+    {
+      "chain_id": "1a91e3dace36e2be3bf030a65679fe821aa1d6ef92e7c9902eb318182c355691",
+      "name": "dogecoin",
+      "chain": "doge",
+      "description": "Dogecoin Mainnet",
+      "rpc_url": "",
+      "block_explorer_url": "https://www.oklink.com/doge",
+      "case_sensitive": true,
+      "only_native_coin": true
+    },
+    {
+      "chain_id": "12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2",
+      "name": "litecoin",
+      "chain": "ltc",
+      "description": "Litecoin Mainnet",
+      "rpc_url": "",
+      "block_explorer_url": "https://www.oklink.com/ltc",
+      "case_sensitive": true,
+      "only_native_coin": true
+    },
+    {
+      "chain_id": "0x91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+      "name": "polkadot",
+      "chain": "polkadot",
+      "description": "Polkadot Mainnet",
+      "rpc_url": "",
+      "block_explorer_url": "https://polkadot.subscan.io",
+      "case_sensitive": true,
+      "only_native_coin": true
+    },
+    {
+      "chain_id": "columbus-5",
+      "name": "terra classic",
+      "chain": "terra",
+      "description": "Terra Classic Mainnet",
+      "rpc_url": "",
+      "block_explorer_url": "https://finder.terra.money/classic/",
+      "case_sensitive": false,
+      "only_native_coin": true
+    }
+  ]
+}
